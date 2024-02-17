@@ -1,15 +1,30 @@
 ---
-emoji: 👩🏻‍💻
-title: 'example1'
-date: '2020-10-30'
-categories: featured-category1
+emoji: 📐
+title: '패션디자인 전공생이 프론트앤드를 꿈 꾼 이유'
+date: '2024-01-26'
+categories: featured-develop
 ---
 
-## 예시 글입니다.
+## 나에게 멋진 것.
 
-![](ex.webp)
+![](fashion.jpg)
 
-test
+꿈을 갖게된 고3 한진수는 이과를 선택해 자연스럽게 공대를 준비하고 있었지만
+
+다른 학교도 그렇듯 선생님들이 학생의 동기부여를 위해 대학교가면 여자친구 생긴다던가... 
+
+굉장히 꿀 발린 소리를 늘어놓으셨다.
+
+&nbsp;
+ 
+그 날은 조금 다르게 한 사람, 한 사람에게 본인이 좋아하는 것이 무엇인지 물어보았다.
+
+&nbsp;
+
+그 때 내 머리에 떠오른 
+## 패션잡지 'CRACKER'
+
+![](cracker.jpg)
 
 ```toc
 ```
