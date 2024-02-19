@@ -46,11 +46,15 @@ export default {
   featured: [
     {
       title: '개발, 늦었다고 생각할 때가...',
-      category: 'featured-category1',
+      category: 'featured-develop',
     },
     {
       title: 'Tech Review',
-      category: 'featured-category2',
+      category: 'featured-tech',
+    },
+    {
+      title: 'I love it.',
+      category: 'featured-love',
     },
   ],
 
