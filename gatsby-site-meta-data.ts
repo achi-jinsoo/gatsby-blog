@@ -23,7 +23,7 @@ export default {
   author: {
     name: `한진수`,
     nickname: `진수`,
-    stack: ['Frontend', 'React', 'Html/CSS'],
+    stack: ['Frontend', 'React', 'HTML/CSS'],
     bio: {
       email: `jshan77777@gmail.com`,
       residence: 'Seoul, South Korea',

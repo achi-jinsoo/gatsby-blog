@@ -2,7 +2,7 @@
 emoji: 🧑‍💻
 title: '아이폰15를 기다리며'
 date: '2024-01-24'
-categories: featured-category2
+categories: featured-tech
 ---
 
 ## 예시 글입니다.
