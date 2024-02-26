@@ -198,7 +198,7 @@ const config: GatsbyConfig = {
         start_url: `/`,
         lang: `en`,
         display: `standalone`,
-        icon: `static/favicon.ico`,
+        icon: `static/favicon.png`,
       },
     },
   ],
