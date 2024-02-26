@@ -96,7 +96,7 @@ export default {
       title: 'Portfolio',
       description: '포트폴리오',
       techStack: ['Html/Css', 'Javascript', 'Jquery'],
-      thumbnailUrl: 'port_1.jpg', // Path to your in the 'assets' folder
+      thumbnailUrl: 'port_1.png', // Path to your in the 'assets' folder
       links: {
         post: '',
         github: 'https://github.com/achi-jinsoo/portfolid24',
