@@ -83,7 +83,7 @@ export default {
       date: '2023.09 - 2024,02',
       en: 'EZEN Computer Academy',
       kr: '이젠 컴퓨터 아카데미',
-      info: 'UI/UX Web, App design(figma) & Front-End(react.js) 과정 수료',
+      info: 'UI/UX Web, App design(figma) & Front-End(react.js) <br>과정 수료',
       link: '',
     },
   ],
