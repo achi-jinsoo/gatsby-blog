@@ -23,7 +23,7 @@ export default {
   author: {
     name: `한진수`,
     nickname: `진수`,
-    stack: ['Frontend', 'React', 'Html/CSS'],
+    stack: ['Frontend', 'React', 'HTML/CSS'],
     bio: {
       email: `jshan77777@gmail.com`,
       residence: 'Seoul, South Korea',
@@ -83,7 +83,7 @@ export default {
       date: '2023.09 - 2024,02',
       en: 'EZEN Computer Academy',
       kr: '이젠 컴퓨터 아카데미',
-      info: 'UI/UX Web, App design(figma) & Front-End(react.js) 과정 수료',
+      info: 'UI/UX Web, App design(figma) & Front-End(react.js) <br>과정 수료',
       link: '',
     },
   ],
@@ -96,7 +96,7 @@ export default {
       title: 'Portfolio',
       description: '포트폴리오',
       techStack: ['Html/Css', 'Javascript', 'Jquery'],
-      thumbnailUrl: 'port_1.jpg', // Path to your in the 'assets' folder
+      thumbnailUrl: 'port_1.png', // Path to your in the 'assets' folder
       links: {
         post: '',
         github: 'https://github.com/achi-jinsoo/portfolid24',
