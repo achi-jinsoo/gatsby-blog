@@ -1,7 +1,7 @@
 ---
 emoji: 🐕
 title: '우리집 멍멍이를 소개합니다.'
-date: '2024-01-26'
+date: '2024-01-28'
 categories: featured-love
 ---
 
