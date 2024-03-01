@@ -1,6 +1,6 @@
 ---
 emoji: 🐕
-title: '패션디자인 전공생이 프론트앤드를 꿈 꾼 이유'
+title: '우리집 멍멍이를 소개합니다.'
 date: '2024-01-26'
 categories: featured-love
 ---
